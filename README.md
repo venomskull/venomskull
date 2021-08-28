@@ -1,6 +1,6 @@
 ### Hi there, I'm Deepan 👋
 
-- 🔭 I’m currently working on React Project
+- 🔭 I’m currently working on React Projects
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate on with other content creators
 - 🤔 Contribute more to Open Source projects
