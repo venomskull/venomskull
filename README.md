@@ -25,5 +25,6 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="Firebase" height="40" style="vertical-align:top; margin:4px">
 <img src="https://avatars.githubusercontent.com/u/19404084?s=200&v=4" alt=".NetCore" height="40" style="vertical-align:top; margin:4px">
 <img src="https://image.pngaaa.com/580/3781580-middle.png" alt="SQL Server" height="40" style="vertical-align:top; margin:4px">
+<img src="https://brandslogos.com/wp-content/uploads/images/microsoft-sql-server-logo-vector.svg" alt="SQL Server" height="40" style="vertical-align:top; margin:4px">
   
 </p>
