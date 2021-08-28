@@ -24,5 +24,6 @@
 <img src="https://camo.githubusercontent.com/7500b9cc1d0652febaab82b3a294b3898deb63bcfc23693adcc9c1236c3b9d5b/68747470733a2f2f6e6578742d617574682e6a732e6f72672f696d672f6c6f676f2f6c6f676f2d736d2e706e67" alt="NextAuth" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="Firebase" height="40" style="vertical-align:top; margin:4px">
 <img src="https://avatars.githubusercontent.com/u/19404084?s=200&v=4" alt=".NetCore" height="40" style="vertical-align:top; margin:4px">
+<img src="https://image.pngaaa.com/580/3781580-middle.png" alt="SQL Server" height="40" style="vertical-align:top; margin:4px">
   
 </p>
