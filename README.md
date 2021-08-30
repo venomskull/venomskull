@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on React Projects
 - 🌱 I’m currently learning everything
-- 👯 I’m looking to collaborate on with other content creators
 - 🤔 Contribute more to Open Source projects
 - ⚡ Fun fact: I love to know about new things (anything)
 - 📫 How to reach me: dirosh@yahoo.com
