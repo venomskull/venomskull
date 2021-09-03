@@ -1,8 +1,7 @@
 ### Hi there, I'm Deepan 👋
 
 - 🔭 I’m currently working on React Projects
-- 🌱 I’m currently learning everything
-- 🤔 Contribute more to Open Source projects
+- 🌱 I’m currently hunger to learn React JS. Hence learning everything related to React JS
 - ⚡ Fun fact: I love to know about new things (anything)
 - 📫 How to reach me: dirosh@yahoo.com
 
